@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Multcalck{
+class MultCalck{
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
         System.out.print("처음수를 입력하세요: ");
